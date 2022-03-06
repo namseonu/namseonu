@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=namgyeonghwa&show_icons=true&hide_border=true)](https://github.com/namgyeonghwa) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgyeonghwa)](https://github.com/namgyeonghwa/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgyeonghwa&layout=compact)](https://github.com/namgyeonghwa)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgyeonghwa&layout=compact)](https://github.com/namgyeonghwa) -->
 
 <!-- ---
 
